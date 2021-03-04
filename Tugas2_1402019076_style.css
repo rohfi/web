@@ -1,0 +1,103 @@
+.container{
+    background-color: rgb(0, 0, 0);
+    margin: 0;
+    width: auto;
+    height: auto;
+    padding: 0px;
+}
+.header {
+    color: darkviolet;
+    text-align: center;
+    font-size: 60px;
+    font-family: "brush script MT";
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 100%;
+    left: 0px;
+}
+
+/* .navbar {
+    float: left;
+    background: black;
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.navbar li {
+    float: left;
+    list-style: none;
+}
+.navbar li a {
+    color: darkviolet;
+    text-decoration: none;
+    display: block;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 50px;
+}
+.navbar li a:hover {
+    background:darkviolet;
+    color: black;
+}
+.center ul {
+    width: auto;
+    overflow: hidden;
+    border: 2px solid darkviolet;
+} */
+
+/* * {
+    box-sizing: border-box;
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  /* .column {
+    float: left;
+    color: darkviolet;
+    margin-top: 0px;
+    width: 50%;
+    padding: 30px;
+    height: 475px; /* Should be removed. Only for demonstration */
+  /* } 
+
+/* 
+  .column h2{
+      text-align: center;
+      font-size: 50px;
+  }
+  .column p {
+      font-size: 20px;
+  } */
+  
+  /* .column li{
+      list-style-type: square;
+      font-size: 20px;
+      margin-left: 20px;
+  } */
+  /* Clear floats after the columns */
+  /* .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  } */
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  /* @media screen and (max-width: 100%) {
+    .column {
+      width: 100%;
+    }
+  }  */
+
+/* .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    color: darkviolet;
+    border-radius: 3px;
+    border: 1px solid darkviolet;
+    text-align: center;
+ } */
