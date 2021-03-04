@@ -24,12 +24,14 @@
         </div>
         <article>
             <div class="row">
-                <div class="column">
-                    <a><img class="tengah" src="https://images.pexels.com/photos/3179911/pexels-photo-3179911.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"></a>
-                </div>
+                <center>
+                    <div class="column">
+                        <a><img class="tengah" src="gua.jpeg" width="500px" height="500px"></a>
+                    </div>
+                </center>
             <div class="column">
                 <h2>About me</h2>
-                <p> Hy...Nama Saya Muhammad Rohfi. Saya mahasiswa Universitas Yarsi semeter 4
+                <p> Hy...Nama Saya Muhammad Rohfi. Saya mahasiswa Universitas Yarsi semester 4
                     .Web ini semata mata hanya untuk Tugas Mata Kuliah Design Pemrograman Web
                 </p>
                 <p>Bahasa Pemrograman yang sudah saya kuasai adalah :</p>
@@ -40,10 +42,16 @@
                 <li>JavaScript</li>
             </div>
         </article>
-        <div class="footer">
-            <p>Footer</p>
-        </div>
+
+        <footer>
+            <div class="gambar">
+                <a href="https://www.instagram.com/muhammad_rohfi/"><img src="ig.png" width="40px" height="40px"></a>
+                <a href="https://www.youtube.com/channel/UC5k_fUSzxjwqAYi0LmFbIig"><img src="yt.png" width="40px" height="40px"></a>
+                <a href="https://github.com/rohfi"><img src="gt.png" width="40px" height="40px"></a>
+            </div>
+          </footer>
              
     </div>
+
 </body>
 </html>
