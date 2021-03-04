@@ -31,10 +31,10 @@
                 </center>
             <div class="column">
                 <h2>About me</h2>
-                <p> Hy...Nama Saya Muhammad Rohfi. Saya mahasiswa Universitas Yarsi semester 4
-                    .Web ini semata mata hanya untuk Tugas Mata Kuliah Design Pemrograman Web
+                <p> Hy ... My name is Muhammad Rohfi. I am a 4th semester Informatics Engineering student at Yarsi University. 
+                    This website is only for Web Programming Design Course Assignments.
                 </p>
-                <p>Bahasa Pemrograman yang sudah saya kuasai adalah :</p>
+                <ul>Skills :</ul>
                 <li>Java</li>
                 <li>Html</li>
                 <li>Css</li>
@@ -49,8 +49,7 @@
                 <a href="https://www.youtube.com/channel/UC5k_fUSzxjwqAYi0LmFbIig"><img src="yt.png" width="40px" height="40px"></a>
                 <a href="https://github.com/rohfi"><img src="gt.png" width="40px" height="40px"></a>
             </div>
-          </footer>
-             
+          </footer> 
     </div>
 
 </body>
