@@ -59,60 +59,60 @@
     box-sizing: border-box;
   }
   
-  /* Create two equal columns that floats next to each other */
-  .column {
+.column {
     float: left;
     color: rgb(255, 255, 255);
     margin-top: 0px;
     width: 50%;
     padding: 30px;
-    height: 600px; /* Should be removed. Only for demonstration */
-  }
-
-
-  .column h2{
+    height: 600px; 
+}
+.column h2{
       text-align: center;
       font-family: Georgia, 'Times New Roman', Times, serif;
       font-size: 50px;
       padding-bottom: 30px;
       padding-top: 100px;
-  }
-  .column p {
+}
+.column p {
       font-size: 20px;
       font-family: Georgia, 'Times New Roman', Times, serif;
       color: rgb(205, 201, 207);
-  }
-  
-  .column li{
+      padding-bottom: 20px;
+      text-indent: 50px;
+}
+.column ul {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(205, 201, 207);
+    padding-bottom: 20px;
+}
+.column li{
       list-style-type: square;
       font-size: 20px;
       margin-left: 20px;
       color: rgb(205, 201, 207);
-  }
-
-.row {
-    padding-top: 100px;
 }
 
-  /* Clear floats after the columns */
-  .row:after {
+.row {
+    padding-top: 110px;
+}
+.row:after {
     content: "";
     display: table;
     clear: both;
-  }
-  
-  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+}
   @media screen and (max-width: 100%) {
     .column {
       width: 100%;
     }
-  }
+}
 
-  footer {
+footer {
     text-align: center;
     border-top: 2px dashed rgb(174, 170, 175);
     padding-top: 10px;
     padding-bottom: 10px;
     background-color:black;
     color: darkviolet;
-  }
+}
