@@ -64,11 +64,11 @@ table {
     border-collapse: collapse;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 16px;
-    width: 70%;
-    margin-left: 250px;
+    width: 75%;
+    margin-left: 175px;
     color: rgb(255, 255, 255) ;
     margin-top: 80px;
-    margin-bottom: 120px;
+    margin-bottom: 125px;
 }
 table td, td a{
     color:rgb(205, 201, 207);
