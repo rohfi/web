@@ -16,7 +16,7 @@
         </header>
         <div class="navbar center">
             <ul>
-                <li><a href="myproject.html">My Project</a></li>
+                <li><a href="index.php">My Project</a></li>
                 <li><a href="aboutme.html">About Me</a></li>
                 <li><a href="ask.html">Ask</a></li>
             </ul>
