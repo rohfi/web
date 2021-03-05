@@ -1,0 +1,125 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    background-color: rgb(0, 0, 0);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    width: 100%;;
+    padding: 0px;
+}
+.header {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 90px;
+    font-family: "brush script MT";
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 100%;
+    left: 0px;
+}
+
+.navbar {
+    float: left;
+    background: black;
+    width: 100%;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.navbar li {
+    float: left;
+    list-style: none;
+}
+.navbar li a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    display: block;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 50px;
+}
+.navbar li a:hover {
+    background:rgb(159, 157, 160);
+    color: black;
+}
+.center ul {
+    width: auto;
+    overflow: hidden;
+    border: 2px solid rgb(174, 170, 175);
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+.column {
+    float: left;
+    color: rgb(255, 255, 255);
+    margin-top: 0px;
+    width: 50%;
+    padding: 30px;
+    height: 600px; 
+}
+.column h2{
+      text-align: center;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 50px;
+      padding-bottom: 30px;
+      padding-top: 100px;
+}
+.column h1{
+      text-align: center;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 50px;
+      padding-bottom: 30px;
+      padding-top: 100px;
+}
+.column p {
+      font-size: 20px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      color: rgb(205, 201, 207);
+      padding-bottom: 20px;
+      text-indent: 50px;
+}
+.column ul {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(205, 201, 207);
+    padding-bottom: 20px;
+}
+.column li{
+      list-style-type: square;
+      font-size: 20px;
+      margin-left: 20px;
+      color: rgb(205, 201, 207);
+}
+
+.row {
+    padding-top: 110px;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+  @media screen and (max-width: 100%) {
+    .column {
+      width: 100%;
+    }
+}
+
+footer {
+    text-align: center;
+    border-top: 2px dashed rgb(174, 170, 175);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color:black;
+    color: darkviolet;
+}

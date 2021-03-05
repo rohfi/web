@@ -1,0 +1,99 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    background-color: rgb(0, 0, 0);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    width: 100%;;
+    padding: 0px;
+}
+.header {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 90px;
+    font-family: "brush script MT";
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 100%;
+    left: 0px;
+}
+
+.navbar {
+    float: left;
+    background: black;
+    width: 100%;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.navbar li {
+    float: left;
+    list-style: none;
+}
+.navbar li a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    display: block;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 50px;
+}
+.navbar li a:hover {
+    background:rgb(159, 157, 160);
+    color: black;
+}
+.center ul {
+    width: auto;
+    overflow: hidden;
+    border: 2px solid rgb(174, 170, 175);
+}
+
+.judul h1 {
+    color:  rgb(255, 255, 255);
+    text-align: center;
+    font-size: 50px;
+    margin-top: 120px;
+}
+table {
+    border-collapse: collapse;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    width: 70%;
+    margin-left: 250px;
+    color: rgb(255, 255, 255) ;
+    margin-top: 80px;
+    margin-bottom: 120px;
+}
+table td, td a{
+    color: blanchedalmond;
+}
+
+table, th, td {
+    border: 1px solid rgb(233, 224, 224);
+}
+th, td {
+    padding: 10px;
+}
+th {
+    background-color:black;
+    color: white;
+}
+table tr:hover {
+    background-color:  rgb(76, 73, 77);
+}
+
+footer {
+    text-align: center;
+    border-top: 2px dashed rgb(174, 170, 175);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color:black;
+    color: darkviolet;
+}
